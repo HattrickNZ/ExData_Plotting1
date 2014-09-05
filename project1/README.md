@@ -1,6 +1,8 @@
 ## Introduction
 
 These are the files required for course project 1 of the Exploratory Data Analysis of the Data Science Course from coursera.org.
+The plots can all be viewed below for your convenience.
+I could add the code for this easy viewing but I feel that is unnecessary, what do you think. please give feedback. Thanks  
 
 ### Plot 1
 
