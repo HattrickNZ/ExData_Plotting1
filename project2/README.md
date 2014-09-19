@@ -4,7 +4,7 @@ These are the files(R scripts and plots) required for course project 2 of the Ex
 The 6 questions below with answers and plots are below for your convenience.
 
 ##Question 1.
-1.Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
+Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 Answer. Yes, based on the below plot.
 
@@ -55,4 +55,4 @@ Compare emissions from motor vehicle sources in Baltimore City with emissions fr
 Answer. Based on the below plot, Baltimore City has seen the biggest percentage drop (approx 50%). Whereas, Los Angeles County, California has seen a small decrease 
 
 ##### Plot 6
-![plot of plot6](https://github.com/HattrickNZ/ExData_Plotting1/blob/master/project2/plot16png) 
+![plot of plot6](https://github.com/HattrickNZ/ExData_Plotting1/blob/master/project2/plot6.png) 
